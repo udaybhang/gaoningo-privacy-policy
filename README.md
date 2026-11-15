@@ -5,7 +5,7 @@ Privacy Policy
 Effective 16 November 2026
 Last updated  16 November 2026
 
- Your privacy matters to us. This page explains what we collect, why we collect it and how you stay in control. By using {CONFIG.appName}, you agree to this policy.
+ Your privacy matters to us. This page explains what we collect, why we collect it and how you stay in control. By using GaoninGo, you agree to this policy.
 
  1. Who we are
  GaoninGo is operated by Udaybhan Gupta (Smart Pay Kirana Store). This policy explains what personal information we collect through the app, why we collect it, and the choices you have.
