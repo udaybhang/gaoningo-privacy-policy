@@ -2,8 +2,8 @@ GaoninGo
 
 Privacy Policy
 
-Effective 11 November 2026
-Last updated  11 November 2026
+Effective 16 November 2026
+Last updated  16 November 2026
 
  Your privacy matters to us. This page explains what we collect, why we collect it and how you stay in control. By using {CONFIG.appName}, you agree to this policy.
 
